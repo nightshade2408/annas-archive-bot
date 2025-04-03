@@ -7,10 +7,10 @@ How to run:
 2. Copy the access token
 3. Export your token as environment variable:  
    Bash:  
-   `export TOKEN='your token'`
+   `export TOKEN='7867100453:AAG7YADvkHve5H9kmjSLt7GcOKg20KEz68g'`
 
    Powershell:  
-   `$env:TOKEN = 'your token'`
+   `$env:TOKEN = '7867100453:AAG7YADvkHve5H9kmjSLt7GcOKg20KEz68g'`
 
 4. Run the code:  
    `go get`  
